@@ -1,3 +1,9 @@
+
+body {
+    background-image: url(https://cdn.pixabay.com/photo/2020/03/24/11/21/winter-4963715_1280.jpg);
+    background-size: cover;
+}
+
 p{
     background-color: green;
     border: 5px solid blue;
@@ -5,5 +11,5 @@ p{
 }
 
 p:first-child{
-    border: 5px dotted red;
+    border: 5px solid rgb(236, 149, 66);
 }
