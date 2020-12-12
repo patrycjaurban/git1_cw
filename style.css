@@ -5,5 +5,5 @@ p{
 }
 
 p:first-child{
-    border: 5px dotted red;
+    border: 5px solid rgb(236, 149, 66);
 }
